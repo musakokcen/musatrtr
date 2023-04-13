@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 
-I'm **Musa**, a **Software Developer** focused on Apple platforms, developing apps for **more than three years**. I love discovering new technologies & solutions and developing new products. I use Github to implement or contribute to new APIs to me. </h3> <br>
+I'm **Musa**, a **Software Developer** focused on Apple platforms, developing apps for **more than three years**. I love discovering new technologies & solutions and developing new products. I use Github to host my hobby projects or contribute to interesting projects to me. </h3> <br>
 
 I also write blogposts ✍🏻 
+<br/><br>📖 [Code: The Hidden Language of Computer Hardware and Software (2nd Edition) Review](https://medium.com/@musakokcen/code-the-hidden-language-of-computer-hardware-and-software-2nd-edition-review-d250b5b73b61)
 <br/><br>📖 [Build a chat feature using Pusher Channels in Swift](https://medium.com/plus-minus-one/build-a-chat-feature-using-pusher-channels-in-swift-f0f7e9ae409f)
 <br/><br>📖 [Testing OneSignal Push Notifications on the Simulator](https://medium.com/plus-minus-one/testing-onesignal-push-notifications-on-the-simulator-ee23ceb1e9f1)
 <br/><br>📖 [Writing unit tests — Unit test practices](https://medium.com/plus-minus-one/how-do-we-implement-unit-tests-unit-test-practices-cc5f8761bfec)
