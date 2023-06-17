@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-I'm **Musa**, a **Software Developer** focused on Apple platforms, developing apps for **more than three years**. I love discovering new technologies & solutions and developing new products. I use Github to host my hobby projects and contribute to interesting projects to me. </h3> <br>
+I'm **Musa**, a **Software Developer** focused on Apple platforms, developing apps **since 2019**. I love developing high-quality products, solutions, and sharing my knowledge. I use Github to host my hobby projects and contribute to interesting projects to me. </h3> <br>
 
 I also write blogposts ✍🏻 
 <br/><br>📖 [Code: The Hidden Language of Computer Hardware and Software (2nd Edition) Review](https://medium.com/@musakokcen/code-the-hidden-language-of-computer-hardware-and-software-2nd-edition-review-d250b5b73b61)
