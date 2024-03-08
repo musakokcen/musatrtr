@@ -4,8 +4,7 @@ I’m Musa, a software developer with expertise in iOS Development, currently ba
 
 Developing mobile apps is more than just a profession to me; it’s a passion that extends beyond my work life. I enjoy reading technical material, occasional writing, and working on side projects. I use Github to host my hobby projects and contribute to interesting projects to me.
 
-If you want to learn more about my professional career, please, visit my [Linkedin](https://www.linkedin.com/in/musakokcen/) or [my personal blog](musatrtr.github.io/projects) to see the projects I've contributed to.
-
+If you want to learn more about my professional career, please, visit my [Linkedin](https://www.linkedin.com/in/musakokcen/) or [my personal blog](https://musakokcen.github.io/projects/) to see the projects I've contributed to.
 I also write blogposts ✍🏻 
 <br/><br>📖 [Code: The Hidden Language of Computer Hardware and Software (2nd Edition) Review](https://medium.com/@musakokcen/code-the-hidden-language-of-computer-hardware-and-software-2nd-edition-review-d250b5b73b61)
 <br/><br>📖 [Build a chat feature using Pusher Channels in Swift](https://medium.com/plus-minus-one/build-a-chat-feature-using-pusher-channels-in-swift-f0f7e9ae409f)
